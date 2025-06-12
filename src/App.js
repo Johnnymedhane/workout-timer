@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import {  useEffect, useMemo, useState } from "react";
 import Calculator from "./Calculator";
 import ToggleSounds from "./ToggleSounds";
 
@@ -54,7 +54,7 @@ function App() {
     }, 1000);
 
     return () => clearInterval(id);
-  }, [formatTime]);
+  }, [setTime]);
 
   return (
     <main>
