@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.98da1142.css",
-    "main.js": "/static/js/main.11e02c3a.js",
-    "static/media/ClickSound.m4a": "/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
-    "index.html": "/index.html",
-    "main.98da1142.css.map": "/static/css/main.98da1142.css.map",
-    "main.11e02c3a.js.map": "/static/js/main.11e02c3a.js.map"
+    "main.css": "/workout-timer/static/css/main.98da1142.css",
+    "main.js": "/workout-timer/static/js/main.cb2bd714.js",
+    "static/media/ClickSound.m4a": "/workout-timer/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
+    "index.html": "/workout-timer/index.html",
+    "main.98da1142.css.map": "/workout-timer/static/css/main.98da1142.css.map",
+    "main.cb2bd714.js.map": "/workout-timer/static/js/main.cb2bd714.js.map"
   },
   "entrypoints": [
     "static/css/main.98da1142.css",
-    "static/js/main.11e02c3a.js"
+    "static/js/main.cb2bd714.js"
   ]
 }
