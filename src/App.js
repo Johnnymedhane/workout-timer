@@ -56,6 +56,7 @@ function App() {
     return () => clearInterval(id);
   }, [setTime]);
 
+
   return (
     <main>
       <h1>Workout timer</h1>
